@@ -1,9 +1,9 @@
 # Bonjour, je suis Mariem 👋
 
 Élève ingénieure en Génie Informatique à l'**AIAC** (Académie Internationale Mohammed VI de l'Aviation Civile), en dernière année.
-À la recherche d'un **stage PFE** en Data Science / Data Engineering / ML.
+À la recherche d'un **stage PFE** en Data / AI .
 
-## Ce qui m'intéresse
+## Ce qui me passione
 - Machine Learning et Deep Learning (séries temporelles)
 - Data Engineering et entrepôts de données
 - Business Intelligence : dashboards Tableau et Power BI
@@ -22,3 +22,4 @@ Mes projets seront ajoutés ici au fur et à mesure.
 ## Me contacter
 - LinkedIn : https://www.linkedin.com/in/mariem-bissane-061a13338/
 - Email : mariembissane123@gmail.com
+  
